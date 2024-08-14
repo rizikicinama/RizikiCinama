@@ -21,8 +21,7 @@ A habit tracking application that helps users to create, track, and analyze thei
 Clone the repository:
 
    ```bash
-   git clone https://github.com/rizikicinama/RizikiCinama.git
-   cd RizikiCinama
+   gh repo clone rizikicinama/RizikiCinama
    ```
 
 ### 2.3 To install the dependencies:
